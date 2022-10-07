@@ -1,2 +1,2 @@
-# SpellingChallengeMemoriser
- Help you memorise your spelling challenge.
+# SpellingChallengeMemorizer
+ Help you memorize your spelling challenge.
